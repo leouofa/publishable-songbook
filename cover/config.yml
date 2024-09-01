@@ -2,13 +2,13 @@ header:
   top_padding: 20
   title: 'Universal Book of Songs'
   title_size: 35
-  subtitle: 'Version 0.94'
+  subtitle: 'Songs written by Leonid Medovyy'
   subtitle_size: 15
-  bottom_padding: 50
+  bottom_padding: 100
 logo:
   image: logo.png
   width: 500
   height: 500
 footer:
-  title: 'If you want to make an apple pie from scratch, you must first create the universe.'
+  # title: "Songs by Leonid Medovyy"
   title_size: 15
