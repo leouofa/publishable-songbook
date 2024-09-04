@@ -1,8 +1,8 @@
 ==
 name: Dark Triad
 author: Leonid Medovyy
-font: 7.1
-column_width: 510
+font: 7.0
+column_width: 530
 gutter: 5
 ==
 
@@ -60,8 +60,8 @@ gutter: 5
  The pain of others 
 .B7
  Feels not rotten
- --
- --
+--
+--
 .Em                 Am
  You are that which all men avoid
 .Em                  B7
@@ -100,7 +100,8 @@ gutter: 5
  Not greatness
 .Em               B7
  The Grendel sees within
-
+ --
+ --
 .Em
  The hip and hop
 .Am              Em             B7
@@ -111,8 +112,7 @@ gutter: 5
  Go on with running
 .Em               B7
  The desire to be few
- --
- --
+
 .Em
  The glasses worn
 .Am
@@ -145,7 +145,8 @@ gutter: 5
  Danu annoyed at water lilly
 .Em                  B7
  Rhiannon appears on horse
-
+--
+--
 .Em
  Andred sees death
 .Am
@@ -159,8 +160,7 @@ gutter: 5
  In the forest
 .Em                     B7
  and Artemis hunts once more
---
---
+
 .Em
  The bow and arrow
 .Am
@@ -182,4 +182,4 @@ gutter: 5
  The blade
 .            B7
  There is no pain
- --
+--
