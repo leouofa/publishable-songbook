@@ -7,8 +7,11 @@ gutter: 5
 ==
 
 --
+.Em
  I am the sound
+.Am
  I am the voice
+.Em              B7
  I integrate the limit
 
  I am that sine
@@ -42,7 +45,8 @@ gutter: 5
  You feel the sorrow
  In your soul
  The gong removes the pain
-
+ --
+ --
  The monks are seen
  But lies are told
  The scriputres burn in flames
@@ -50,8 +54,7 @@ gutter: 5
  Reflections see
  All that is lost
  The chest is there abandoned
- --
- --
+
  I come before you
  and you kneel
  The ending has not ended
@@ -62,8 +65,7 @@ gutter: 5
 
  The statues kneel
  The spit it shows
- The dishonor
- And the pain
+ The dishonor and the pain
 
  Yue Fei returned
  And demons run
@@ -79,7 +81,8 @@ gutter: 5
  The soldiers move
  The line grows strong
  But horses do not march
-
+ --
+ --
  The shields are oiled
  The spears are curved
  And armies are defeated
@@ -87,8 +90,7 @@ gutter: 5
  The horses died
  The riders lived
  The beaten were not beaten
- --
- --
+
  Take mercy when
  Its given and
  The hell will not be given
@@ -97,8 +99,10 @@ gutter: 5
  I'll come, and fear
  Will disappear in minute
 
- Creator speaks the language with
+ Creator speaks 
+ the language with
  All those that understand it
+
  And if you don't
  Its all fine still
  Your end comes unended
