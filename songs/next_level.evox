@@ -1,0 +1,105 @@
+==
+name: Next Level
+author: Leonid Medovyy
+font: 8.5
+column_width: 500
+gutter: 5
+==
+
+--
+[Verse 1]
+.Em
+ I’m not a black belt, but I kicked my desk
+.Am
+ Slack blew up while I tried to rest
+.Em
+ I’m not a coder, but I write like hell
+.B7
+ StackOverflow taught me well
+
+.Em
+ Jira says Its “in review”
+.Am
+ But It's been stalling since 92
+.Em
+ Not a musician, but I drop these tracks
+.B7
+ On a Amiga with a beat that slaps
+
+[Chorus]
+.Em
+ Next level, say it loud
+.Am
+ Still can’t exit Vim, but I’m feelin' proud
+.Em
+ My test suite built on dreams
+.B7
+ And my code's run therapy memes
+
+.Em
+ Next level, I show up late
+.Am
+ Forgot my gi, but I still rotate
+.Em
+ Not the pro you think I am—
+.B7
+ But I’ll crush a Kanban plan
+
+[Verse 2]
+.Em
+ JIRA alerts 3 AM last night
+.Am
+ Confluence doc said “this ain't right”
+.Em
+ My Git history is my shame
+.B7
+ “final-FINAL-v2” is my middle name
+--
+--
+.Em
+ Not a drummer, but I quantize pain
+.Am
+ Punch the keys till they scream my name
+.Em
+ Not a dev, but I git the gist
+.B7
+ My pull request came with a plot twist
+
+[Chorus]
+.Em
+ Next level, feeling wild
+.Am
+ Still confuse = sign with double == sign
+.Em
+ I may not know what I’m doing, true—
+.B7
+ But neither does your senior dev crew
+ 
+.Em
+ Next level, wingin' it all
+.Am
+ Writing bash like it's improv call
+.Em
+ Cursor calls me the one
+.B7
+ Every crash log’s a part of the fun
+ 
+ [Final Chorus – Loud, unqualified, unstoppable]
+.Em
+ Next level, built on hope
+.Am
+ And duct-taped scripts that barely cope
+.Em
+ Not a guru, sensei, or bro
+.B7
+ But I’m slamming keys and stealing the show
+ 
+.Em
+ Next level, imposter pride
+.Am
+ A warrior with Git on the side
+.Em
+ You can doubt me—but I won’t quit
+.B7
+ 'Cause next level it don't retreat
+--
